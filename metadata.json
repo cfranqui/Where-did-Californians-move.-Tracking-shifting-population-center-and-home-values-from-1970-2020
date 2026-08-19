@@ -1,0 +1,6 @@
+{
+  "name": "Where Did Californians Move? (1970-2020 GIS Analysis)",
+  "description": "Interactive GIS spatial analysis exploring California population center shifts, county-by-county growth, and home affordability from 1970 to 2020 by Christopher Franqui.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
